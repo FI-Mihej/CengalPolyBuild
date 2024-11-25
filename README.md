@@ -8,6 +8,8 @@
 
 # CengalPolyBuild: A Comprehensive and Hackable Build System for Multilingual Python Packages
 
+> CengalPolyBuild is a part of the [Cengal](https://github.com/FI-Mihej/Cengal) library. If you have any questions or would like to participate in discussions, feel free to join the [Cengal Discord](https://discord.gg/sQ6enWBNgt). Your support and involvement are greatly appreciated as Cengal evolves.
+
 Our build system offers an automatic, customizable framework tailored for Python packages that incorporate modules in various programming languages. It is specifically designed to support Cython (including automatic conversion from Python to Cython), C/C++, Objective-C, Go, and Nim, with ongoing expansions to include additional languages.
 
 Key Features:
